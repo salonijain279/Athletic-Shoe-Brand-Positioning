@@ -1,0 +1,11 @@
+"map","brand","dimension_1","dimension_2"
+"similarity_based","Nike",-1.64039432456752,-0.274747116061696
+"similarity_based","Adidas",-1.42831042463314,-0.809988498998152
+"similarity_based","Skechers",2.79989550166679,0.773361144000086
+"similarity_based","NewBalance",1.1912080596495,-1.64918444362406
+"similarity_based","Puma",-0.922398812115633,1.96055891468382
+"attribute_based","Nike",-1.58684691306432,-0.0464042924738543
+"attribute_based","Adidas",-0.360112386294322,-0.0170508462676524
+"attribute_based","Skechers",1.79074488853411,-0.106284238618721
+"attribute_based","NewBalance",-0.0193707211393655,-0.414183598885505
+"attribute_based","Puma",0.175585131963888,0.583922976245733
