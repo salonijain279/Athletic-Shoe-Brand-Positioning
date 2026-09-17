@@ -10,6 +10,14 @@ How does the competitive picture change when consumers rely on holistic brand im
 
 ## Approach
 
+```mermaid
+flowchart LR
+    A[Similarity matrix] --> C[Classical MDS to 2D]
+    B[Attribute-distance matrix] --> C
+    C --> D[Compare nearest brand pairs]
+    D --> E[Positioning implications]
+```
+
 1. Validate two five-brand distance matrices.
 2. Reconstruct each matrix as a two-dimensional perceptual map using classical multidimensional scaling.
 3. Compare the nearest brand pairs and the proportion of positive-eigenvalue fit retained in two dimensions.
