@@ -1,8 +1,8 @@
-# Athletic Shoe Brand Positioning
+# Athletic Footwear Competitive Positioning
 
-I analyzed how consumers position Nike, Adidas, New Balance, Skechers, and Puma when they evaluate the brands through two different lenses: overall similarity and attribute-derived distance.
+How consumers position Nike, Adidas, New Balance, Skechers, and Puma is analyzed through two different lenses: overall similarity and attribute-derived distance.
 
-This project was completed with Bhavisha Chafekar, Omkar Thombare, Parul Chaudhary, and Shivanshu Dagur. This public repository contains my reproducible analysis layer and aggregate pairwise distances only; it does not include respondent-level data, survey submissions, or course materials.
+This project was completed with Bhavisha Chafekar, Omkar Thombare, Parul Chaudhary, and Shivanshu Dagur. This public repository contains Saloni Jain's reproducible analysis layer and aggregate pairwise distances only; it does not include respondent-level data, survey submissions, or course materials.
 
 ## Business question
 
